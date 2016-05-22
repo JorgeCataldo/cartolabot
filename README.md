@@ -1,1 +1,1 @@
-# bot for playing the cartola fantasy game by globo.com 
+# _bot for playing the cartola fantasy game by globo.com 
