@@ -1,3 +1,3 @@
-# _bot for playing the cartola fantasy game by globo.com 
+# CartolaBot 
 
-Teste de fonte
+_bot for playing the cartola fantasy game by globo.com ! Supervisão Leonardo 
